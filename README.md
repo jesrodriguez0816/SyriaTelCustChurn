@@ -16,7 +16,7 @@ The following questions were addressed:
 
 SyriaTel would save the most money by prioritizing the retention of current customers over the aquisition of new customers.
 
-In statistics, a type I error is a false-positive result, meaning that a null hypothesis is rejected when it is actually true. A  type II error is  a false-negative result, meaning that a null hypothesis is rejected when it is actually true.
+In statistics, a type I error is a false-positive result, meaning that a null hypothesis is rejected when it is actually true. A  type II error is  a false-negative result, meaning that a null hypothesis is not rejected when it is actually false.
 
 For this project, incorrectly classifying a false-negative (type II error) would be worse than incorrectly classifying a false-positive. A false negative would mean that the reality of a customer canceling would have been overlooked.
 
