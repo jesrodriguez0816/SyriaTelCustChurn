@@ -1,12 +1,12 @@
 # SyriaTelCustChurn
 Phase 3 Project: Flatiron School
-# SyriaTel Customer Churn
+# Overview
 
 The goal of this project was to build a binary classifier to predict whether a customer would "soon" leave the telecommunications company, SyriaTel.
 
-Using the provided dataset, I discovered that the current “churn” rate for SyriaTel is about 14%.
+The current “churn” rate for SyriaTel is about 14%.
 
-The following questions were addressed:
+Using the provided dataset, the following questions were addressed:
 * What features are the primary determinants of customer "churn"?
 * Are there any predictable patterns?
 * How can SyriaTel use these findings to implement cost-effective solutions?
