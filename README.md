@@ -36,6 +36,8 @@ The following models were built and evaluated for recall:
 The decision tree model, with a recall score of 74%, was chosen for further analyses.
 ![](2A9755D0-3F4D-432A-8127-4B94D6F551E6.jpeg)
 
+![](A237068E-ABA2-4E68-8C90-9F8EADB539E9.jpeg)
+
 ![](A06DC5AC-CC16-4DC8-9AE6-FEE83D16D5E9_4_5005_c.jpeg)
 
 
