@@ -36,6 +36,8 @@ The following models were built and evaluated for recall:
 The decision tree model, with a recall score of 74%, was chosen for further analyses.
 ![](2A9755D0-3F4D-432A-8127-4B94D6F551E6.jpeg)
 
+![](
+
 
 On the right side of the graph, the legend for feature value indicates that RED is HIGH feature value and BLUE is LOW feature value. On the y axis, the features are divided individually. The x axis ranks how significant the impact is.
 
