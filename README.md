@@ -2,11 +2,12 @@
 Phase 3 Project: Flatiron School
 # Overview
 
-The goal of this project was to build a binary classifier to predict whether a customer would "soon" leave the telecommunications company, SyriaTel.
+The goal of this project was to build a binary classifier to predict whether a customer would "soon" leave the telecommunications company, SyriaTel. The term "churn" is used to describe a customer leaving.
 
-The current “churn” rate for SyriaTel is about 14%.
+According to the provided dataset, the current churn rate for SyriaTel is about 14%. A reasonable goal would be to reduce this rate to 7%-about half of the current total.
 
 Using the provided dataset, the following questions were addressed:
+
 * What features are the primary determinants of customer "churn"?
 * Are there any predictable patterns?
 * How can SyriaTel use these findings to implement cost-effective solutions?
@@ -39,7 +40,7 @@ The decision tree model, with a recall score of 74%, was chosen for further anal
 
 SHAPley Additive exPlanations is a tool that creates visualizations for a machine learning model. The resource I used to fit SHAP to my data can be found [HERE](https://anvilproject.org/guides/content/creating-links).
 
-On the right side of the graph, the legend for feature value indicates that RED is HIGH feature value and BLUE is LOW feature value. On the y axis, the features are divided individually. The x axis ranks how significant the impact is.
+On the right side of the graph below, the legend indicates that RED is HIGH feature value and BLUE is LOW feature value. On the y axis, the features are divided individually. The x axis ranks how significant the impact is.
 
 ***If the feature has a tail going to the right, it means that those values are causing an impact on model output, pushing customer churn from zero (not churning) to one (churn).***
 
@@ -66,7 +67,6 @@ Number of Voicemail Messages
 
 It is evident that SyriaTel charges customers based on the number of minutes they use to make calls. The highest contributors of customer churn are factors that lead to a higher bill.
 
+According to the data, the average charge per user is about $60. My recommendation would be for the company to charge a flat monthly fee to the demographic of customers who are charged $60 or less monthly. A higher tier plan could be offered to customers with higher phone use.
 
-According to the data, the average charge per user is about $60. My recommendation would be for the company to charge a flat monthly fee to the demographic of customers who are charged $50 or less monthly and a higher tier plan for those who use their phones more.
-
-The goal would be to reduce their churn rate to from 14% to 7% (about half of their current rate).
+If SytriaTel can retain 247 more of the customers listed in this dataset, they would reach theier goal of reducing thier churn rate from 14% to 7%. As thier business model improves, it would be wise to compare thier processes with thier competitors', and continue to evaluate thier churn rate with fresh persepective and experience.
