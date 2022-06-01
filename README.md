@@ -34,9 +34,10 @@ The following models were built and evaluated for recall:
 * XBoost
 
 The decision tree model, with a recall score of 74%, was chosen for further analyses.
-![](2A9755D0-3F4D-432A-8127-4B94D6F551E6.jpeg)
 
-![](A237068E-ABA2-4E68-8C90-9F8EADB539E9.jpeg)
+# Visualizing Results of Model Using SHAP
+
+SHAPley Additive exPlanations is a tool that creates visualizations for a machine learning model. The resource I used to fit SHAP to my data can be found [HERE](https://anvilproject.org/guides/content/creating-links).
 
 ![](A06DC5AC-CC16-4DC8-9AE6-FEE83D16D5E9_4_5005_c.jpeg)
 
@@ -47,6 +48,9 @@ On the right side of the graph, the legend for feature value indicates that RED 
 
 # Findings and Reccomendation
 
+![](2A9755D0-3F4D-432A-8127-4B94D6F551E6.jpeg)
+
+![](A237068E-ABA2-4E68-8C90-9F8EADB539E9.jpeg)
 Highest contributors of customer churn:
 * Having an international plan
 * Total number of day minutes
