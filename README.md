@@ -69,4 +69,4 @@ It is evident that SyriaTel charges customers based on the number of minutes the
 
 According to the data, the average charge per user is about $60. My recommendation would be for the company to charge a flat monthly fee to the demographic of customers who are charged $60 or less monthly. A higher tier plan could be offered to customers with higher phone use.
 
-If SytriaTel can retain 247 more of the customers listed in this dataset, they would reach theier goal of reducing thier churn rate from 14% to 7%. As thier business model improves, it would be wise to compare thier processes with thier competitors', and continue to evaluate thier churn rate with fresh persepective and experience.
+If SytriaTel can retain 247 more of the customers listed in this dataset, they would reach theier goal of reducing thier churn rate from 14% to 7%. As thier business model improves, it would be wise to compare thier processes with thier competitors', and continue to evaluate thier churn rate with renewed persepective.
