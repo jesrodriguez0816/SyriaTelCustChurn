@@ -53,14 +53,14 @@ On the right side of the graph below, the legend indicates that RED is HIGH feat
 
 ![](A237068E-ABA2-4E68-8C90-9F8EADB539E9.jpeg)
 
-Highest contributors of customer churn:
+## Highest contributors of customer churn:
 * Having an international plan
 * Total number of day minutes
 * High number of customer service calls
 * Total number of evening minutes
 * Lowest contributors of customer churn:
 
-Number of Voicemail Messages
+## Number of Voicemail Messages
 * Total international calls
 * State
 * Area code
