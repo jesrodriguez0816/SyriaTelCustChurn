@@ -58,9 +58,9 @@ On the right side of the graph below, the legend indicates that RED is HIGH feat
 * Total number of day minutes
 * High number of customer service calls
 * Total number of evening minutes
-* Lowest contributors of customer churn:
 
-## Number of Voicemail Messages
+## Lowest contributors of customer churn:
+* Number of Voicemail Messages
 * Total international calls
 * State
 * Area code
