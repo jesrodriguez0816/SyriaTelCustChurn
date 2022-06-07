@@ -34,7 +34,12 @@ The following models were built and evaluated for recall:
 * Gradient Boost
 * XBoost
 
-The decision tree model, with a recall score of 74%, was chosen for further analyses.
+I ultimately decided to use my decision tree classifier for further analyses.
+
+The decision tree had a recall score of 74%. In binary classification, “recall” is the ratio of true positives over the number of false negatives.
+
+Ultimately, recall took priority over precision because my goal is to minimize false negatives.
+
 
 # Visualizing Results of Model Using SHAP
 
